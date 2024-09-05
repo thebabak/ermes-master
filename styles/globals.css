@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: font;
+  src: url(./../public/font/f.ttf);
+}
+
+
+
+body {
+
+  background: rgb(33 37 41);
+    /* font-family: font; */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #615f5f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #023555da;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1b62b8;
+}
+
+.gradiant2{
+  background: linear-gradient(90deg, rgba(190, 207, 252, 0.14) 0%, rgba(47, 105, 208, 0.7) 100%);
+
+}
+.gradiant3{
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(153, 153, 153, 0.2) 42.5%);
+}
+.gradiant4{
+  background: linear-gradient(0deg, rgba(190, 207, 252, 0.04) -29.96%, rgba(47, 105, 208, 0.2) 129.39%);
+}
+.gradiant5{
+  background: linear-gradient(238.37deg, rgba(248, 175, 5, 0.7) -9.57%, rgba(47, 105, 208, 0.7) 114.93%);
+}
+.gradiant6{
+  background: linear-gradient(90deg, rgba(190, 207, 252, 0.14) 0%, rgba(47, 105, 208, 0.7) 100%);
+}
+.gradiant7{
+  background: linear-gradient(179.97deg, #FFCF43 0.03%, #2F69D0 191.71%);
+}
+.gradiant8{
+  background: linear-gradient(90deg, rgba(190, 207, 252, 0.14) -27.66%, rgba(248, 175, 5, 0.7) 100%);
+}
+.gradiant9{
+  background: linear-gradient(90deg, rgba(190, 207, 252, 0.14) -27.66%, rgba(47, 105, 208, 0.7) 100%);
+}
