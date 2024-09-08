@@ -34,7 +34,8 @@ function index() {
         <div className="px-4 lg:px-24 py-10 bg-[#808080aa]">
           <div className="lg:w-1/2 mx-auto">
             <p className="px-4 lg:px-8 py-2 lg:py-4 rounded-lg bg-[#00000055] text-white text-lg lg:text-2xl">
-              <span className="text-mainYellow">Ermes</span> is a leading provider of high-quality raw materials and advanced industrial machinery, dedicated to empowering businesses with the resources and tools they need to thrive in a competitive marketplace. With a commitment to excellence, innovation, and sustainability, Ermes has established itself as a trusted partner across a wide various industries.
+              <span className="text-mainYellow">Ermes</span> is a leading provider of high-quality raw materials and advanced industrial machinery, dedicated to empowering businesses with the resources and tools they need to thrive in a competitive marketplace. With a commitment to excellence, innovation, 
+              and sustainability, Ermes has established itself as a trusted partner across a wide various industries.
             </p>
           </div>
         </div>
