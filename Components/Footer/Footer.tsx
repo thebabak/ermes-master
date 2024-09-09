@@ -15,7 +15,7 @@ function Footer() {
       <div className="bg-white mx-4 lg:mx-20 px-4 relative rounded-t-3xl">
         <div className=" grid grid-cols-1 lg:grid-cols-3 pt-[10vh]  ">
           <div className="col-span-1">
-            <p className="text-black font-semibold leading-7">
+            <p className="text-black font-semibold leading-7 text-center">
             Ermes Trading Limited is a newly founded company, bringing a fresh and innovative approach to the trade of raw materials and industrial machinery. Our mission is to connect high-quality suppliers with industries in need, ensuring seamless transactions and exceptional service.
             </p>
           </div>

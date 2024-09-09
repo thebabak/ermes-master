@@ -12,7 +12,7 @@ function HomeBanner() {
    </div>
    <div className='px-4'>
       <p
-         className='text-white border-s-2 border-s-[#F9AE05] w-full lg:w-1/3 my-8 mx-auto px-4 py-4 bannerTextGradiant'>
+         className='text-white border-s-2 border-s-[#F9AE05] w-full lg:w-1/3 my-8 mx-auto px-4 py-4 bannerTextGradiant text-center'>
          Our mission is to own and develop financially disciplined businesses that lead 
          responsibly by providing the best products with superior branding to target markets.
 
